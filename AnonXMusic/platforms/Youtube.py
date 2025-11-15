@@ -50,11 +50,11 @@ async def get_stream_url(query, video=False):
     apis = [
         {
             "url": "https://api.vniox.store/youtube",
-            "key": "VNI0X_6NdXcXpVfPjGzwb"           #ADD YOUR API KEY FIND - @VnioxApiHubBot
+            "key": "VNI0X_Uni4K2paVWg76b6"           #ADD YOUR API KEY FIND - @VnioxApiHubBot
         },
         {
             "url": "https://api.vniox.store/youtube",
-            "key": "VNI0X_6NdXcXpVfPjGzwb"           #ADD YOUR API KEY FIND - @VnioxApiHubBot
+            "key": "VNI0X_Uni4K2paVWg76b6"           #ADD YOUR API KEY FIND - @VnioxApiHubBot
         }
     ]
 
